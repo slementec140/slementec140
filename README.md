@@ -1,6 +1,6 @@
 # I'm Stéphane 🥖🥐
 
-**Head of Demand Generation at [Ketch](https://www.ketch.com)** — the platform that makes data privacy actually work for businesses.
+**Head of Growth Marketing at [Ketch](https://www.ketch.com)** — the platform that makes data privacy actually work for businesses.
 
 I live at the intersection of AI, growth, and privacy tech. I build things I wish existed — automations, tools, prompts — mostly to make marketing less manual and more interesting. I write occasionally, experiment constantly, and have strong opinions about consent flows that don't suck.
 
