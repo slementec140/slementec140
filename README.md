@@ -8,7 +8,7 @@ I live at the intersection of AI, growth, and privacy tech. I build things I wis
 
 ### Currently
 
-- Running demand gen and brand for [Ketch](https://www.ketch.com): content, paid, seo/aeo, and the unhinged AI experiments that go along with these
+- Running growth and brand for [Ketch](https://www.ketch.com): content, paid, seo/aeo, and the unhinged AI experiments that go along with these
 - Building AI-powered marketing workflows with Claude
 - Exploring what "agentic marketing" (and "agentic privacy", for that matter) actually means in practice (spoiler: it's less robots, more leverage)
 - Slowly convincing engineers that good copy matters
